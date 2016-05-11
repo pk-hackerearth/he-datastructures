@@ -44,3 +44,16 @@ Constraints:
 * 1<=|S|<=10000 // |S| denotes the length of string.
 * 0<=N<=M<|S|
 * S E[a,z]
+
+Input
+
+3
+hlleo 1 3
+ooneefspd 0 8
+effort 1 4
+
+Output
+
+hlleo
+spoonfeed
+erofft
